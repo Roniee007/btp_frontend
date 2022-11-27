@@ -1,0 +1,333 @@
+.container_fac{
+position: absolute;
+width: 207px;
+height: 100%;
+overflow: hidden;
+left: 0;
+top: 0;
+color:#DD2D4A;
+background-color: #FFFFFF;
+}
+.container_fac img{
+position: absolute;
+left: 74px;
+right: 105.29px;
+top: 42px;
+bottom: 894px;
+
+/* Faculty */
+background:white;
+}
+.container_fac p{
+position: absolute;
+width: 29px;
+height: 20px;
+left: 106px;
+top: 30px;
+right: 72px;
+bottom: 898px;
+
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16.7475px;
+line-height: 21px;
+
+/* Faculty */
+color: #DD2D4A;
+}
+
+.dashboard_fac{
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 65px;
+right: 0;
+
+
+/* Faculty */
+color:black;
+background: white;
+border-radius: 12px 0 0 12px;
+
+}
+.dashboard_fac :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+
+.dashboard_fac img{
+position: absolute;
+left: 35.2px;
+right: 156.2px;
+top: 80px;
+color: #99ADC9;
+
+
+/* Primary L */
+background: #FCFCFC;
+}
+.dashboard_fac_link{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 80px;
+right:67px;
+text-decoration: none;
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+.add_fac{
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 100px;
+right: 0;
+
+
+/* Faculty */
+color:black;
+border-radius: 12px 0 0 12px;
+
+}
+.add_fac :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+.add_fac img{
+position: absolute;
+left: 37px;
+right: 170px;
+top: 93px;
+
+
+/* Primary L */
+background: #FCFCFC;
+}
+.add_fac_link{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 95px;
+right:79px;
+text-decoration: none;
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+/* Groups */
+.groups_fac{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 21px;
+right: 0;
+
+
+/* Faculty */
+color:#99ADC9;
+border-radius: 12px 0 0 12px;
+
+}
+.groups_fac :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+.groups_fac img{
+position: absolute;
+left: 33.63px;
+right: 154.63px;
+top: 222.62px;
+bottom: 718.63px;
+
+/* Primary L */
+background: #FCFCFC;
+}
+.groups_fac_link{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 225px;
+right:89px;
+bottom:719px;
+text-decoration: none;
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color:#99ADC9;
+}
+
+/* Research */
+.research_fac {
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 19px;
+right: 0;
+
+
+/* Faculty */
+color:black;
+border-radius: 12px 0 0 12px;
+
+}
+.research_fac :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+.research_fac img{
+position: absolute;
+left: 35px;
+right: 156px;
+top: 277px;
+bottom: 663px;
+
+/* Primary L */
+background: #FCFCFC;
+}
+.research_fac_link{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 279px;
+right:78px;
+bottom:665px;
+text-decoration: none;
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+/* Settings*/
+.settings_fac{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 20px;
+right: 0;
+
+
+/* Faculty */
+
+border-radius: 12px 0 0 12px;
+
+}
+.settings_fac :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+
+.settings_fac img{
+position: absolute;
+left: 34.52px;
+right: 155.51px;
+top: 332.51px;
+bottom: 610.51px;
+
+/* Primary L */
+background: #FCFCFC;
+}
+.settings_fac_link{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 334px;
+right:84px;
+text-decoration: none;
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+/* Logout */
+.logout_fac{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 680px;
+right: 26px;
+
+
+/* Faculty */
+color:black;
+border-radius: 12px 0 0 12px;
+
+}
+.logout_fac img{
+position: absolute;
+left: 36.55px;
+right: 152.45px;
+top: 42px;
+
+
+/* Primary L */
+background: #FCFCFC;
+}
+.logout_fac_link{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 42px;
+right:92px;
+text-decoration: none;
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #DD2D4A;
+}
+.logout_fac:hover{
+    cursor: pointer;
+}

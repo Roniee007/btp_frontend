@@ -1,0 +1,268 @@
+.ssignup {
+  position: absolute;
+  width: 430px;
+  height: 520px;
+  left: 35rem;
+  top: 12rem;
+  background: #FFFFFF;
+  border-radius: 8px;
+}
+
+.ssignup:hover {
+  border: 2px solid #176DE6;
+}
+
+.shadow_signup {
+  position: absolute;
+  width: 430px;
+  height: 520px;
+  left: 38rem;
+  top: 14rem;
+  background: #242424;
+  opacity: 0.05;
+  filter: blur(48px);
+  border-radius: 8px;
+}
+
+.topimage_signup {
+  position: absolute;
+  left: 50rem;
+  top: 2rem;
+}
+
+.stusignup {
+  box-sizing: border-box;
+  position: absolute;
+  padding-top: 10px;
+  width: 200px;
+  height: 40px;
+  left: 23rem;
+  top: 15rem;
+  text-decoration: none;
+  text-align: center;
+  color: #242424;
+  background: #176DE6;
+  border-radius: 8px;
+}
+
+.facsignup {
+  box-sizing: border-box;
+  position: absolute;
+  padding-top: 10px;
+  width: 180px;
+  height: 40px;
+  left: 23rem;
+  top: 19rem;
+  text-decoration: none;
+  text-align: center;
+  color: #242424;
+  border: 1px solid #242424;
+  background-color: #FFF;
+  border-radius: 8px;
+}
+
+.signup {
+  position: absolute;
+  width: 75px;
+  height: 34px;
+  left: 32px;
+  top: 32px;
+
+  font-family: 'Lato',sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 34px;
+  color: #242424;
+}
+
+.name_signup {
+  position: absolute;
+  width: 34px;
+  height: 17px;
+  left: 32px;
+  top: 70px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #176DE6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 18px 0;
+}
+
+.inputname_signup {
+  position: absolute;
+  width: 360px;
+  height: 22px;
+  left: 32px;
+  top: 110px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  border: none;
+  border-bottom: 1px solid #242424;
+  color: #242424;
+  opacity: 0.6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0;
+}
+
+.inputname_signup:focus {
+  outline: none;
+}
+
+.email_signup {
+  position: absolute;
+  width: 34px;
+  height: 17px;
+  left: 32px;
+  top: 150px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #176DE6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 18px 0;
+}
+
+.inputemail_signup {
+  position: absolute;
+  width: 360px;
+  height: 22px;
+  left: 32px;
+  top: 190px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  border: none;
+  border-bottom: 1px solid #242424;
+  color: #242424;
+  opacity: 0.6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0;
+}
+
+.inputemail_signup:focus {
+  outline: none;
+}
+
+.password_signup {
+  position: absolute;
+  width: 60px;
+  height: 17px;
+  left: 32px;
+  top: 250px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #176DE6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.inputpassword_signup {
+  position: absolute;
+  width: 360px;
+  height: 22px;
+  left: 32px;
+  top: 270px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  border: none;
+  border-bottom: 1px solid #242424;
+  color: #242424;
+  opacity: 0.6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0;
+}
+
+.inputpassword_signup:focus {
+  outline: none;
+}
+
+.oldperson_signup {
+  position: absolute;
+  left: 32px;
+  top: 320px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #242424;
+  opacity: 0.6;
+}
+
+.stu_login {
+  color: #176DE6;
+}
+
+.finsignup {
+  position: absolute;
+  width: 75px;
+  height: 34px;
+  left: 215px;
+  top: 410px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 34px;
+  color: #176DE6;
+}
+
+.ellipse_signup {
+  box-sizing: border-box;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  left: 2px;
+  top: 2px;
+  background: #FFFFFF;
+  border: 2px solid #176DE6;
+  border-radius: 50%;
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
+
+.arrow_signup {
+  position: relative;
+  top: 4px;
+  left: 2px;
+}

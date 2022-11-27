@@ -1,0 +1,15 @@
+.facheader {
+  position: absolute;
+  width: 80%;
+  height: 10%;
+  left: 15%;
+  top: 0;
+}
+
+.facarea{
+  position: absolute;
+  width: 80%;
+  height: 85%;
+  top: 12%;
+  left: 16%;
+}

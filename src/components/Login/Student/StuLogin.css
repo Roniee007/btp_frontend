@@ -1,0 +1,253 @@
+.slogin {
+  position: absolute;
+  width: 430px;
+  height: 520px;
+  left: 35rem;
+  top: 12rem;
+  background: #FFFFFF;
+  border-radius: 8px;
+}
+
+.slogin:hover {
+  border: 2px solid #176DE6;
+}
+
+.shadow {
+  position: absolute;
+  width: 430px;
+  height: 520px;
+  left: 38rem;
+  top: 14rem;
+  background: #242424;
+  opacity: 0.05;
+  filter: blur(48px);
+  border-radius: 8px;
+}
+
+.topimage {
+  position: absolute;
+  left: 50rem;
+  top: 2rem;
+}
+
+.stulogin {
+  box-sizing: border-box;
+  position: absolute;
+  padding-top: 10px;
+  width: 200px;
+  height: 40px;
+  left: 23rem;
+  top: 15rem;
+  text-decoration: none;
+  text-align: center;
+  color: #242424;
+  background: #176DE6;
+  border-radius: 8px;
+}
+
+.faclogin {
+  box-sizing: border-box;
+  position: absolute;
+  padding-top: 10px;
+  width: 180px;
+  height: 40px;
+  left: 23rem;
+  top: 19rem;
+  text-decoration: none;
+  text-align: center;
+  color: #242424;
+  border: 1px solid #242424;
+  background-color: #FFF;
+  border-radius: 8px;
+}
+
+.login {
+  position: absolute;
+  width: 75px;
+  height: 34px;
+  left: 32px;
+  top: 32px;
+
+  font-family: 'Lato',sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  color: #242424;
+}
+
+.email {
+  position: absolute;
+  width: 34px;
+  height: 17px;
+  left: 32px;
+  top: 70px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #176DE6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 18px 0;
+}
+
+.inputemail {
+  position: absolute;
+  width: 360px;
+  height: 22px;
+  left: 32px;
+  top: 110px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  border: none;
+  border-bottom: 1px solid #242424;
+  color: #242424;
+  opacity: 0.6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0;
+}
+
+.inputemail:focus {
+  outline: none;
+}
+
+.password {
+  position: absolute;
+  width: 60px;
+  height: 17px;
+  left: 32px;
+  top: 170px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #176DE6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.inputpassword {
+  position: absolute;
+  width: 360px;
+  height: 22px;
+  left: 32px;
+  top: 190px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  border: none;
+  border-bottom: 1px solid #242424;
+  color: #242424;
+  opacity: 0.6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0;
+}
+
+.inputpassword:focus {
+  outline: none;
+}
+
+.cbox {
+  position: absolute;
+  left: 30px;
+  top: 275px;
+  opacity: 0.6;
+}
+
+.Rememberme {
+  position: absolute;
+  left: 55px;
+  top: 275px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #242424;
+  opacity: 0.6;
+}
+
+.fpass {
+  position: absolute;
+  right: 33px;
+  top: 275px;
+  color: #DD2D4A;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.newperson {
+  position: absolute;
+  left: 32px;
+  top: 320px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #242424;
+  opacity: 0.6;
+}
+
+.stu_signup {
+  color: #176DE6;
+}
+
+.finlogin {
+  position: absolute;
+  width: 75px;
+  height: 34px;
+  left: 215px;
+  top: 400px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  color: #176DE6;
+}
+
+.ellipse {
+  box-sizing: border-box;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  left: 2px;
+  top: 2px;
+  background: #FFFFFF;
+  border: 2px solid #176DE6;
+  border-radius: 50%;
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
+
+.arrow {
+  position: relative;
+  top: 30px;
+  left: 25px;
+}

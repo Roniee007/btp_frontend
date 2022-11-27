@@ -1,0 +1,115 @@
+.content{
+  /* position: absolute; */
+  width: 570px;
+  height: 168px;
+  /* left: 0;
+  top: 0; */
+  background: #FFFFFF;
+  box-shadow: 0 16px 24px rgba(0, 0, 0, 0.06), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(0, 0, 0, 0.04);
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* margin-right: 40px; */
+  padding: 5px;
+  margin-bottom:20px;
+}
+.upperDiv{
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.profile{
+  height: 70px;
+  width: 70px;
+}
+
+.name{
+  /* position: absolute; */
+  /* width: 114px;
+  height: 19px; */
+  /* left: 90px;
+  top:0; */
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  /* line-height: 19px; */
+  color: #176DE6;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.nameBlock{
+  padding-left: 10px;
+}
+.pitchDiv{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 30px;
+  padding-top: 10px;
+  /* background-color:black; */
+  flex:1;
+}
+.field{
+  /* position: absolute;
+  left: 90px;
+  top: 20px; */
+  /* width: 97px;
+  height: 14px; */
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  /* line-height: 14px; */
+  color: #242424;
+  opacity: 0.7;
+  /* flex: none;
+  order: 1;
+  flex-grow: 0; */
+  margin: 0px;
+}
+
+.pitch{
+  box-sizing: border-box;
+  /* position: absolute; */
+  width: 124px;
+  height: 32px;
+  /* left: 430px;
+  top: 30px; */
+  color: #FFF;
+  background: #176DE6;
+  border: 1px solid #176DE6;
+  border-radius: 10px;
+}
+
+.interest{
+  /* position: absolute; */
+  /* width: 82%; */
+  height: 45%;
+  /* top: 48%;
+  left: 16%; */
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.areaofinterest{
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; */
+  padding: 4px 12px;;
+  /* flex: 30%; */
+  /* position: absolute; */
+  width: fit-content;
+  height: 15px;
+  /* left: 10px;
+  top: 0px; */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #176DE6;
+  color: #FFF;
+  border-radius: 16px;
+  margin-right: 10px;
+}
